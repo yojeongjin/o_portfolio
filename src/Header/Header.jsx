@@ -4,9 +4,7 @@ import styled from 'styled-components';
 export default function Header() {
   return (
     <HeaderBase>
-      <HeaderInner>
-        <Logo src={`${process.env.PUBLIC_URL}/assets/symbol.png`} alt="로고" />
-      </HeaderInner>
+      <HeaderInner></HeaderInner>
     </HeaderBase>
   );
 }

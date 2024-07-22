@@ -83,7 +83,7 @@ body {
   font-family: 'Pretendard', sans-serif;
   font-weight: 400;
   font-size: 15px;
-  max-width: 1440px;
+  max-width: 720px;
   min-width: 280px;
   margin: 0 auto;
   color: ${props => props.theme.font_color};
